@@ -6,20 +6,31 @@
 
 ### 🌟 About Me
 
+<table>
+<tr>
+<td>
+
 - 🔥 Passionate about crafting scalable and efficient web solutions.
 - 💻 Expertise in **Java, C++, MERN Stack, Spring Boot, and Web3**.
 - 📱 Strong foundation in **iOS & Android development**.
 - 🏆 Committed to writing clean, maintainable, and high-performance code.
 - 🎯 Always eager to learn and work on cutting-edge technologies.
 
+</td>
+<td>
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+</td>
+</tr>
+</table>
+
 ---
 
-### 🎥 Animated Representation
 <p align="center">
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="600" alt="Nerdy boy coding like Ironman"/>
 </p>
 
 ---
+
 
 ### 💼 Tech Stack
 
