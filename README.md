@@ -1,6 +1,6 @@
-## 👋 Hello, I'm **Dixit Raj**!
-
-🚀 **Systems Engineer | Full-Stack Developer | Blockchain Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7B801&width=700&lines=%F0%9F%91%8B+Hello%2C+I'm+Dixit+Raj!;%F0%9F%9A%80+Systems+Engineer+%7C+Full-Stack+Developer+%7C+Blockchain+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -22,6 +22,15 @@
 </td>
 </tr>
 </table>
+
+---
+
+### 🎥 Animated Representation
+<p align="center">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="600" alt="Nerdy boy coding like Ironman"/>
+</p>
+
+---
 
 ### 💼 Tech Stack
 
@@ -54,10 +63,20 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DixitRaj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dixitraj28/)
-[![GitHub](https://img.shields.io/badge/GitHub-DixitRaj-black?style=for-the-badge&logo=github)](https://github.com/Dixitraj281)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DixitRaj-red?style=for-the-badge&logo=firefox)](https://dixitraj.netlify.app)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dixitraj28/">
+    <img src="https://img.shields.io/badge/LinkedIn-DixitRaj-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Dixitraj281">
+    <img src="https://img.shields.io/badge/GitHub-DixitRaj-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://dixitraj.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-DixitRaj-red?style=for-the-badge&logo=firefox"/>
+  </a>
+</p>
 
 ---
 
-🔹 **Let's build something amazing together!** 🚀
+<p align="center">
+  🔹 <strong>Let's build something amazing together!</strong> 🚀
+</p>
